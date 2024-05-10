@@ -1,0 +1,6 @@
+﻿  test.cpp
+C:\ComputerGraphics212\SDL_Template\SDL_Template\test.cpp(48,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\ComputerGraphics212\SDL_Template\SDL_Template\test.cpp(58,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\ComputerGraphics212\SDL_Template\SDL_Template\test.cpp(156,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\ComputerGraphics212\SDL_Template\SDL_Template\test.cpp(195): warning C4715: 'SDL_main': not all control paths return a value
+  SDL_Template.vcxproj -> C:\ComputerGraphics212\SDL_Template\SDL_Template\x64\Debug\SDL_Template.exe
