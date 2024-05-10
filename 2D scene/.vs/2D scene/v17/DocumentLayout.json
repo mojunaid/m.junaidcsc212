@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ComputerGraphics212\\2D scene\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1D9FBD-64A2-48BF-A0F8-6B57ACD18DFD}|2D scene.vcxproj|C:\\ComputerGraphics212\\2D scene\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA1D9FBD-64A2-48BF-A0F8-6B57ACD18DFD}|2D scene.vcxproj|solutionrelative:test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D115415F-C2F6-4118-958A-E8F342B6F1D8}|..\\..\\Users\\moyoj\\AppData\\Roaming\\Microsoft\\VisualStudio\\17.0_4d7f159b\\SingleFileISense\\_sfi_a364643a-45d2-4000-9b2f-04dc2c51115c_.vcxproj|C:\\Users\\moyoj\\AppData\\Roaming\\Microsoft\\Windows\\Network Shortcuts\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test.cpp",
+              "DocumentMoniker": "C:\\Users\\moyoj\\AppData\\Roaming\\Microsoft\\Windows\\Network Shortcuts\\test.cpp",
+              "RelativeDocumentMoniker": "..\\..\\Users\\moyoj\\AppData\\Roaming\\Microsoft\\Windows\\Network Shortcuts\\test.cpp",
+              "ToolTip": "C:\\Users\\moyoj\\AppData\\Roaming\\Microsoft\\Windows\\Network Shortcuts\\test.cpp",
+              "RelativeToolTip": "..\\..\\Users\\moyoj\\AppData\\Roaming\\Microsoft\\Windows\\Network Shortcuts\\test.cpp",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAGEAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-10T14:17:02.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.cpp",
+              "DocumentMoniker": "C:\\ComputerGraphics212\\2D scene\\test.cpp",
+              "RelativeDocumentMoniker": "test.cpp",
+              "ToolTip": "C:\\ComputerGraphics212\\2D scene\\test.cpp",
+              "RelativeToolTip": "test.cpp",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAAHUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-03T15:53:44.297Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

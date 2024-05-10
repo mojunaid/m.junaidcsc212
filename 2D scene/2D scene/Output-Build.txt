@@ -1,0 +1,8 @@
+﻿Build started at 16:58...
+1>------ Build started: Project: 2D scene, Configuration: Debug x64 ------
+1>test.cpp
+1>C:\ComputerGraphics212\2D scene\test.cpp(14,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+1>2D scene.vcxproj -> C:\ComputerGraphics212\2D scene\x64\Debug\2D scene.exe
+1>Done building project "2D scene.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 16:58 and took 00.996 seconds ==========

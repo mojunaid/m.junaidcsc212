@@ -1,0 +1,3 @@
+﻿  test.cpp
+C:\ComputerGraphics212\2D scene\test.cpp(14,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  2D scene.vcxproj -> C:\ComputerGraphics212\2D scene\x64\Debug\2D scene.exe
